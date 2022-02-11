@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "amount": 3790.78,
+        "interest_rate": 5,
+        "length_of_loan_monthly": 36,
+        "monthly_payment_amount": 150.9
+    },
+    {
+        "id":2,
+        "amount": 50000.78,
+        "interest_rate": 6,
+        "length_of_loan_monthly": 60,
+        "monthly_payment_amount": 700.9
+    }
+]

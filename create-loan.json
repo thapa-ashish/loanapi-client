@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 3790.78,
+        "interest_rate": 2.3,
+        "length_of_loan_monthly": 36,
+        "monthly_payment_amount": 150.9
+    },
+    {
+        "amount": 50000.78,
+        "interest_rate": 2.3,
+        "length_of_loan_monthly": 60,
+        "monthly_payment_amount": 700.9
+    }
+]
